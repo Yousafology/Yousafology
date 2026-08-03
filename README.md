@@ -72,118 +72,72 @@ Developer_Identity:
 
 ---
 
-### 🚀 SEO-Optimized Software Repositories
+### 💼 Portfolio Showcase: Private Enterprise Software Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💊 Pharmacy ERP Software</h3>
-      <p align="center">
-        <a href="https://github.com/Yousafology/pharmacy-erp-software">
-          <img src="https://img.shields.io/badge/View_Repository-007acc?style=for-the-badge" alt="View Repository" />
-        </a>
-      </p>
-      <ul>
-        <li><strong>Description:</strong> Full-Scale Enterprise Pharmacy Management & POS System.</li>
-        <li><strong>Highlights:</strong> FEFO Short-Expiry Batch Suggestions, Doctor Commissions, Ledgers.</li>
-        <li><strong>Tech:</strong> Next.js, Express, PostgreSQL, Tailwind</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 WhatsApp Web Client</h3>
-      <p align="center">
-        <a href="https://github.com/Yousafology/whatsapp-web-client">
-          <img src="https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge" alt="View Repository" />
-        </a>
-      </p>
-      <ul>
-        <li><strong>Description:</strong> Pixel-Perfect Desktop Messaging Web Client & Analytics.</li>
-        <li><strong>Highlights:</strong> WebSockets real-time messaging, Group Data Ingestion, Dark UI.</li>
-        <li><strong>Tech:</strong> Node.js, Express, WebSockets, JS</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ System Monitoring Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/Yousafology/system-monitoring-dashboard">
-          <img src="https://img.shields.io/badge/View_Repository-007acc?style=for-the-badge" alt="View Repository" />
-        </a>
-      </p>
-      <ul>
-        <li><strong>Description:</strong> Nomadic PC System Monitor & Agentic Control Center.</li>
-        <li><strong>Highlights:</strong> 1-Click Toolchain Auditor, Nomadic PC Checker, Vault Sync.</li>
-        <li><strong>Tech:</strong> Dataview, React, PowerShell</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📜 Google Apps Script Automation</h3>
-      <p align="center">
-        <a href="https://github.com/Yousafology/google-apps-script-automation">
-          <img src="https://img.shields.io/badge/View_Repository-4285F4?style=for-the-badge" alt="View Repository" />
-        </a>
-      </p>
-      <ul>
-        <li><strong>Description:</strong> Enterprise Google Workspace Automation Suite.</li>
-        <li><strong>Highlights:</strong> Automated document routing, cloud backups, Clasp sync.</li>
-        <li><strong>Tech:</strong> Google Apps Script, Clasp, JS</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 Keyword Niche Validator</h3>
-      <p align="center">
-        <a href="https://github.com/Yousafology/keyword-niche-validator">
-          <img src="https://img.shields.io/badge/View_Repository-FF5722?style=for-the-badge" alt="View Repository" />
-        </a>
-      </p>
-      <ul>
-        <li><strong>Description:</strong> SEO Keyword Difficulty & EMD Profitability Evaluator.</li>
-        <li><strong>Highlights:</strong> Automated search volume filtering (>500/mo) & domain checker.</li>
-        <li><strong>Tech:</strong> Python, Node.js, JSON</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Buy Sell Marketplace Script</h3>
-      <p align="center">
-        <a href="https://github.com/Yousafology/buy-sell-marketplace-script">
-          <img src="https://img.shields.io/badge/View_Repository-FF9900?style=for-the-badge" alt="View Repository" />
-        </a>
-      </p>
-      <ul>
-        <li><strong>Description:</strong> Multi-Vendor Classified Ads & Product Listing Platform.</li>
-        <li><strong>Highlights:</strong> Location filtering, category search, vendor inventory dashboards.</li>
-        <li><strong>Tech:</strong> React, Express, MongoDB</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Autonomous AI Agent Framework</h3>
-      <p align="center">
-        <a href="https://github.com/Yousafology/autonomous-ai-agent-framework">
-          <img src="https://img.shields.io/badge/View_Repository-9C27B0?style=for-the-badge" alt="View Repository" />
-        </a>
-      </p>
-      <ul>
-        <li><strong>Description:</strong> Enterprise Multi-Agent OS & Sandbox Tool Bridge.</li>
-        <li><strong>Highlights:</strong> Isolated worker runtime, S3/Terminal adapters, persistent memory.</li>
-        <li><strong>Tech:</strong> Python, FastAPI, Docker</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔒 Enterprise Security Note</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Security-Protected-2ea44f?style=for-the-badge" alt="Security Protected" />
-      </p>
-      <ul>
-        <li>Proprietary backend database credentials, secret business keys, and private client environment configurations are safely protected.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> 🔒 **Security Notice:** All source code and database configurations for the software systems below are maintained in **100% Private Repositories**. Architectural specifications and feature breakdowns are showcased publicly below.
+
+---
+
+#### 1. 💊 Pharmacy ERP Software
+* **SEO Target Keyword:** `Pharmacy ERP Software` *(Search Volume: > 1,200/mo)*
+* **EMD Domain Potential:** Available in `.net` & `.org` (`pharmacyerpsoftware.net`)
+* **System Summary:** Full-Scale Enterprise Pharmacy Management & POS System built to eliminate inventory leakage, automate FEFO batch expiry suggestions, calculate doctor prescription commissions, and manage supplier cashflow ledgers.
+* **Tech Stack:** Next.js 15, Express.js, PostgreSQL, TypeScript, Tailwind CSS
+* **Code Access:** 🔒 Private Repository
+
+---
+
+#### 2. 💬 WhatsApp Web Client
+* **SEO Target Keyword:** `WhatsApp Web Client` *(Search Volume: > 2,400/mo)*
+* **EMD Domain Potential:** Available in `.org` (`whatsappwebclient.org`)
+* **System Summary:** Pixel-perfect desktop messaging application built with WebSockets, persistent session management, group chat data parsers, real-time message history export, and custom dark UI theme.
+* **Tech Stack:** Node.js, Express.js, WebSockets, JavaScript, HTML5/CSS3
+* **Code Access:** 🔒 Private Repository
+
+---
+
+#### 3. ⚡ System Monitoring Dashboard
+* **SEO Target Keyword:** `System Monitoring Dashboard` *(Search Volume: > 1,200/mo)*
+* **EMD Domain Potential:** Available in `.net` & `.org` (`systemmonitoringdashboard.net`)
+* **System Summary:** Nomadic PC control center designed for developer environment management, 1-click toolchain audits (`winget`), Obsidian vault background synchronization monitoring, and active agent status reporting.
+* **Tech Stack:** PowerShell 7, React, Dataview, Markdown, REST API
+* **Code Access:** 🔒 Private Repository
+
+---
+
+#### 4. 📜 Google Apps Script Automation
+* **SEO Target Keyword:** `Google Apps Script Automation` *(Search Volume: > 800/mo)*
+* **EMD Domain Potential:** Available in `.org` (`googleappscriptautomation.org`)
+* **System Summary:** Centralized Google Workspace automation suite managing automated Google Drive backups, Google Sheets multi-tab ledger aggregation, and cross-platform API webhooks versioned via Google Clasp CLI.
+* **Tech Stack:** Google Apps Script, JavaScript, Clasp CLI, Google Workspace API
+* **Code Access:** 🔒 Private Repository
+
+---
+
+#### 5. 🔍 Keyword Niche Validator
+* **SEO Target Keyword:** `Keyword Niche Validator` *(Search Volume: > 700/mo)*
+* **EMD Domain Potential:** Available in `.com` (`keywordnichevalidator.com`)
+* **System Summary:** Automated SEO niche research and keyword evaluation engine analyzing search volume thresholds (> 500/mo), exact match domain (EMD) availability across `.com/.net/.org`, and keyword difficulty scores.
+* **Tech Stack:** Python 3.12, Node.js, JSON Data Pipelines
+* **Code Access:** 🔒 Private Repository
+
+---
+
+#### 6. 🛒 Buy Sell Marketplace Script
+* **SEO Target Keyword:** `Buy Sell Marketplace Script` *(Search Volume: > 900/mo)*
+* **EMD Domain Potential:** Available in `.net` (`buysellmarketplacescript.net`)
+* **System Summary:** Multi-vendor e-commerce and classified ads marketplace web application featuring user product listings, category search filters, buyer-seller messaging, and vendor inventory management.
+* **Tech Stack:** React 18, Express.js, MongoDB, Tailwind CSS
+* **Code Access:** 🔒 Private Repository
+
+---
+
+#### 7. 🤖 Autonomous AI Agent Framework
+* **SEO Target Keyword:** `Autonomous AI Agent Framework` *(Search Volume: > 1,500/mo)*
+* **EMD Domain Potential:** Available in `.org` (`autonomousaiagentframework.org`)
+* **System Summary:** Enterprise multi-agent operating system orchestrating reasoning pipelines, isolated sandbox tool execution, vector memory retrieval, and custom RESTful service bridges.
+* **Tech Stack:** Python 3.12, FastAPI, Next.js, Docker
+* **Code Access:** 🔒 Private Repository
 
 ---
 
