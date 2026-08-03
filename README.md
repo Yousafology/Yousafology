@@ -72,15 +72,15 @@ Developer_Identity:
 
 ---
 
-### 🚀 Public Enterprise Case Studies (SEO Optimized)
+### 🚀 SEO-Optimized Software Repositories
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💊 Pharmacy ERP Software</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/Pharmacy-ERP-Software-Showcase">
-          <img src="https://img.shields.io/badge/View_Public_Case_Study-007acc?style=for-the-badge" alt="View Case Study" />
+        <a href="https://github.com/Yousafology/pharmacy-erp-software">
+          <img src="https://img.shields.io/badge/View_Repository-007acc?style=for-the-badge" alt="View Repository" />
         </a>
       </p>
       <ul>
@@ -92,8 +92,8 @@ Developer_Identity:
     <td width="50%" valign="top">
       <h3 align="center">💬 WhatsApp Web Client</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/WhatsApp-Web-Client-Showcase">
-          <img src="https://img.shields.io/badge/View_Public_Case_Study-2ea44f?style=for-the-badge" alt="View Case Study" />
+        <a href="https://github.com/Yousafology/whatsapp-web-client">
+          <img src="https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge" alt="View Repository" />
         </a>
       </p>
       <ul>
@@ -107,8 +107,8 @@ Developer_Identity:
     <td width="50%" valign="top">
       <h3 align="center">⚡ System Monitoring Dashboard</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/System-Monitoring-Dashboard-Showcase">
-          <img src="https://img.shields.io/badge/View_Public_Case_Study-007acc?style=for-the-badge" alt="View Case Study" />
+        <a href="https://github.com/Yousafology/system-monitoring-dashboard">
+          <img src="https://img.shields.io/badge/View_Repository-007acc?style=for-the-badge" alt="View Repository" />
         </a>
       </p>
       <ul>
@@ -120,8 +120,8 @@ Developer_Identity:
     <td width="50%" valign="top">
       <h3 align="center">📜 Google Apps Script Automation</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/Google-Apps-Script-Automation-Showcase">
-          <img src="https://img.shields.io/badge/View_Public_Case_Study-4285F4?style=for-the-badge" alt="View Case Study" />
+        <a href="https://github.com/Yousafology/google-apps-script-automation">
+          <img src="https://img.shields.io/badge/View_Repository-4285F4?style=for-the-badge" alt="View Repository" />
         </a>
       </p>
       <ul>
@@ -135,8 +135,8 @@ Developer_Identity:
     <td width="50%" valign="top">
       <h3 align="center">🔍 Keyword Niche Validator</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/Keyword-Niche-Validator-Showcase">
-          <img src="https://img.shields.io/badge/View_Public_Case_Study-FF5722?style=for-the-badge" alt="View Case Study" />
+        <a href="https://github.com/Yousafology/keyword-niche-validator">
+          <img src="https://img.shields.io/badge/View_Repository-FF5722?style=for-the-badge" alt="View Repository" />
         </a>
       </p>
       <ul>
@@ -148,8 +148,8 @@ Developer_Identity:
     <td width="50%" valign="top">
       <h3 align="center">🛒 Buy Sell Marketplace Script</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/Buy-Sell-Marketplace-Script-Showcase">
-          <img src="https://img.shields.io/badge/View_Public_Case_Study-FF9900?style=for-the-badge" alt="View Case Study" />
+        <a href="https://github.com/Yousafology/buy-sell-marketplace-script">
+          <img src="https://img.shields.io/badge/View_Repository-FF9900?style=for-the-badge" alt="View Repository" />
         </a>
       </p>
       <ul>
@@ -163,8 +163,8 @@ Developer_Identity:
     <td width="50%" valign="top">
       <h3 align="center">🤖 Autonomous AI Agent Framework</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/Autonomous-AI-Agent-Framework-Showcase">
-          <img src="https://img.shields.io/badge/View_Public_Case_Study-9C27B0?style=for-the-badge" alt="View Case Study" />
+        <a href="https://github.com/Yousafology/autonomous-ai-agent-framework">
+          <img src="https://img.shields.io/badge/View_Repository-9C27B0?style=for-the-badge" alt="View Repository" />
         </a>
       </p>
       <ul>
@@ -174,12 +174,12 @@ Developer_Identity:
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔒 Enterprise Private Code Repositories</h3>
+      <h3 align="center">🔒 Enterprise Security Note</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Source_Code-100%25_Private-red?style=for-the-badge" alt="Private Code" />
+        <img src="https://img.shields.io/badge/Security-Protected-2ea44f?style=for-the-badge" alt="Security Protected" />
       </p>
       <ul>
-        <li>All production source code repositories are maintained as <strong>100% Private Enterprise Repositories</strong> to protect client confidentiality & proprietary logic.</li>
+        <li>Proprietary backend database credentials, secret business keys, and private client environment configurations are safely protected.</li>
       </ul>
     </td>
   </tr>
