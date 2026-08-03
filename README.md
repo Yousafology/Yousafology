@@ -44,10 +44,10 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| **[[Junaid Pharmacy ERP]](https://github.com/Yousafology/Junaid_Pharmacy_ERP)** | Full-Stack Pharmacy Management Software & Point of Sale (POS) with real-time inventory, supplier tracking, and financial ledgers. | Next.js, Express, PostgreSQL, Tailwind | 🟡 Active Dev |
-| **[[WhatsApp Web Clone]](https://github.com/Yousafology/whatsapp-web-clone)** | Pixel-perfect desktop messaging web client with group media parsers, automated chat export, and dark mode UI. | Node.js, Express, JavaScript, WebSockets | 🟢 Complete |
-| **[[Master System Dashboard]](https://github.com/Yousafology/System-Dashboard)** | Agentic control center monitoring OS environments, nomadic PC toolchains, and multi-workspace sync states. | Dataview, React, PowerShell, Markdown | 🟡 Active Dev |
-| **[[App Scripts Archive]](https://github.com/Yousafology/App-Scripts-Archive)** | Enterprise Google Apps Script automation suite for workspace workflows and Google Drive syncing. | Apps Script, JavaScript, Clasp | 🟢 Complete |
+| **[Junaid Pharmacy ERP Showcase](https://github.com/Yousafology/Junaid_Pharmacy_ERP_Showcase)** | Full-Stack Enterprise Pharmacy Management & POS System with real-time inventory, supplier tracking, and doctor commission engines. | Next.js, Express, PostgreSQL, Tailwind | 🟡 Active Dev |
+| **[WhatsApp Web Clone](https://github.com/Yousafology/whatsapp-web-clone)** | Pixel-perfect desktop messaging web client with group media parsers, automated chat export, and dark mode UI. | Node.js, Express, JavaScript, WebSockets | 🟢 Complete |
+| **[Master System Dashboard](https://github.com/Yousafology/System-Dashboard)** | Agentic control center monitoring OS environments, nomadic PC toolchains, and multi-workspace sync states. | Dataview, React, PowerShell, Markdown | 🟡 Active Dev |
+| **[App Scripts Archive](https://github.com/Yousafology/App-Scripts-Archive)** | Enterprise Google Apps Script automation suite for workspace workflows and Google Drive syncing. | Apps Script, JavaScript, Clasp | 🟢 Complete |
 
 ---
 
