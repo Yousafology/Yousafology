@@ -72,62 +72,114 @@ Developer_Identity:
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Public Enterprise Case Studies (SEO Optimized)
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💊 Junaid Pharmacy ERP</h3>
+      <h3 align="center">💊 Pharmacy ERP Software</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/Junaid_Pharmacy_ERP_Showcase">
+        <a href="https://github.com/Yousafology/Pharmacy-ERP-Software-Showcase">
           <img src="https://img.shields.io/badge/View_Public_Case_Study-007acc?style=for-the-badge" alt="View Case Study" />
         </a>
       </p>
       <ul>
         <li><strong>Description:</strong> Full-Scale Enterprise Pharmacy Management & POS System.</li>
-        <li><strong>Highlights:</strong> FEFO Short-Expiry Batch Suggestions, Doctor Commission Engine, Cashflow Ledgers.</li>
+        <li><strong>Highlights:</strong> FEFO Short-Expiry Batch Suggestions, Doctor Commissions, Ledgers.</li>
         <li><strong>Tech:</strong> Next.js, Express, PostgreSQL, Tailwind</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💬 WhatsApp Web Clone</h3>
+      <h3 align="center">💬 WhatsApp Web Client</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/whatsapp-web-clone">
-          <img src="https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge" alt="View Repo" />
+        <a href="https://github.com/Yousafology/WhatsApp-Web-Client-Showcase">
+          <img src="https://img.shields.io/badge/View_Public_Case_Study-2ea44f?style=for-the-badge" alt="View Case Study" />
         </a>
       </p>
       <ul>
         <li><strong>Description:</strong> Pixel-Perfect Desktop Messaging Web Client & Analytics.</li>
-        <li><strong>Highlights:</strong> Real-time WebSockets messaging, Group Chat Data Ingestion, Dark UI.</li>
+        <li><strong>Highlights:</strong> WebSockets real-time messaging, Group Data Ingestion, Dark UI.</li>
         <li><strong>Tech:</strong> Node.js, Express, WebSockets, JS</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Master System Dashboard</h3>
+      <h3 align="center">⚡ System Monitoring Dashboard</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/System-Dashboard">
-          <img src="https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge" alt="View Repo" />
+        <a href="https://github.com/Yousafology/System-Monitoring-Dashboard-Showcase">
+          <img src="https://img.shields.io/badge/View_Public_Case_Study-007acc?style=for-the-badge" alt="View Case Study" />
         </a>
       </p>
       <ul>
         <li><strong>Description:</strong> Nomadic PC System Monitor & Agentic Control Center.</li>
-        <li><strong>Highlights:</strong> 1-Click Toolchain Auditor, Nomadic PC Checker, Vault Sync Monitor.</li>
+        <li><strong>Highlights:</strong> 1-Click Toolchain Auditor, Nomadic PC Checker, Vault Sync.</li>
         <li><strong>Tech:</strong> Dataview, React, PowerShell</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📜 App Scripts Archive</h3>
+      <h3 align="center">📜 Google Apps Script Automation</h3>
       <p align="center">
-        <a href="https://github.com/Yousafology/App-Scripts-Archive">
-          <img src="https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge" alt="View Repo" />
+        <a href="https://github.com/Yousafology/Google-Apps-Script-Automation-Showcase">
+          <img src="https://img.shields.io/badge/View_Public_Case_Study-4285F4?style=for-the-badge" alt="View Case Study" />
         </a>
       </p>
       <ul>
         <li><strong>Description:</strong> Enterprise Google Workspace Automation Suite.</li>
         <li><strong>Highlights:</strong> Automated document routing, cloud backups, Clasp sync.</li>
         <li><strong>Tech:</strong> Google Apps Script, Clasp, JS</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 Keyword Niche Validator</h3>
+      <p align="center">
+        <a href="https://github.com/Yousafology/Keyword-Niche-Validator-Showcase">
+          <img src="https://img.shields.io/badge/View_Public_Case_Study-FF5722?style=for-the-badge" alt="View Case Study" />
+        </a>
+      </p>
+      <ul>
+        <li><strong>Description:</strong> SEO Keyword Difficulty & EMD Profitability Evaluator.</li>
+        <li><strong>Highlights:</strong> Automated search volume filtering (>500/mo) & domain checker.</li>
+        <li><strong>Tech:</strong> Python, Node.js, JSON</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Buy Sell Marketplace Script</h3>
+      <p align="center">
+        <a href="https://github.com/Yousafology/Buy-Sell-Marketplace-Script-Showcase">
+          <img src="https://img.shields.io/badge/View_Public_Case_Study-FF9900?style=for-the-badge" alt="View Case Study" />
+        </a>
+      </p>
+      <ul>
+        <li><strong>Description:</strong> Multi-Vendor Classified Ads & Product Listing Platform.</li>
+        <li><strong>Highlights:</strong> Location filtering, category search, vendor inventory dashboards.</li>
+        <li><strong>Tech:</strong> React, Express, MongoDB</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Autonomous AI Agent Framework</h3>
+      <p align="center">
+        <a href="https://github.com/Yousafology/Autonomous-AI-Agent-Framework-Showcase">
+          <img src="https://img.shields.io/badge/View_Public_Case_Study-9C27B0?style=for-the-badge" alt="View Case Study" />
+        </a>
+      </p>
+      <ul>
+        <li><strong>Description:</strong> Enterprise Multi-Agent OS & Sandbox Tool Bridge.</li>
+        <li><strong>Highlights:</strong> Isolated worker runtime, S3/Terminal adapters, persistent memory.</li>
+        <li><strong>Tech:</strong> Python, FastAPI, Docker</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 Enterprise Private Code Repositories</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Source_Code-100%25_Private-red?style=for-the-badge" alt="Private Code" />
+      </p>
+      <ul>
+        <li>All production source code repositories are maintained as <strong>100% Private Enterprise Repositories</strong> to protect client confidentiality & proprietary logic.</li>
       </ul>
     </td>
   </tr>
