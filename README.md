@@ -2,7 +2,7 @@
 
   <!-- Animated Typing SVG Header -->
   <a href="https://github.com/Yousafology">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Yousaf;Founder+%26+Lead+Architect+@+Albarka;Full-Stack+%26+Autonomous+AI+Engineer;Building+Enterprise+ERP+%26+Web+Apps" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&pause=1000&color=61DAFB&center=true&vcenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Yousaf;Founder+%26+Lead+Architect+@+Albarka;Full-Stack+%26+Autonomous+AI+Engineer;Building+Enterprise+ERP+%26+Web+Apps" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
@@ -24,21 +24,33 @@
 
 ---
 
-### 🌟 About Me
+### 🏆 GitHub Profile Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yousafology&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Yousafology Trophies" />
+  </a>
+</div>
+
+---
+
+### 🌟 Executive Developer Profile
 
 ```yaml
-Name: Yousaf
-Role: Founder & Lead Systems Architect @ Albarka Enterprise
-Location: Peshawar, Pakistan 🇵🇰
-Focus_2026: Autonomous AI Agents, Enterprise Next.js ERPs, Multi-Workspace Knowledge Systems
-Core_Motto: "Automate everything, reduce cognitive load, build with precision."
+Developer_Identity:
+  Name: Yousaf
+  Title: Founder & Lead Architect @ Albarka Enterprise
+  Location: Peshawar, Pakistan 🇵🇰
+  Core_Stack: Next.js 15, React 18, TypeScript, Python 3.12, PostgreSQL, Express
+  Specializations: Autonomous AI Systems, Multi-Tenant ERPs, Automated Data Bridges
+  Motto: "Automate everything, reduce cognitive load, engineer for speed."
 ```
 
 ---
 
-### 💻 Technologies & Stack
+### 🧰 Technology & Infrastructure Stack
 
-#### 🎨 Frontend Excellence
+#### 🎨 Frontend Architecture
 <p>
   <img src="https://img.shields.io/badge/Next.js_14%2F15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -48,7 +60,7 @@ Core_Motto: "Automate everything, reduce cognitive load, build with precision."
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-#### ⚙️ Backend, AI & Databases
+#### ⚙️ Backend, AI & Database Engines
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
@@ -123,7 +135,7 @@ Core_Motto: "Automate everything, reduce cognitive load, build with precision."
 
 ---
 
-### 📊 Real-Time GitHub Activity & Metrics
+### 📊 Real-Time GitHub Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yousafology&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yousafology's GitHub Stats" width="49%" />
@@ -134,6 +146,18 @@ Core_Motto: "Automate everything, reduce cognitive load, build with precision."
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousafology&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+</div>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yousafology/Yousafology/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yousafology/Yousafology/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Yousafology/Yousafology/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
