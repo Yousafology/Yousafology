@@ -79,8 +79,6 @@ Developer_Identity:
 ---
 
 #### 1. 💊 Pharmacy ERP Software
-* **SEO Target Keyword:** `Pharmacy ERP Software` *(Search Volume: > 1,200/mo)*
-* **EMD Domain Potential:** Available in `.net` & `.org` (`pharmacyerpsoftware.net`)
 * **System Summary:** Full-Scale Enterprise Pharmacy Management & POS System built to eliminate inventory leakage, automate FEFO batch expiry suggestions, calculate doctor prescription commissions, and manage supplier cashflow ledgers.
 * **Tech Stack:** Next.js 15, Express.js, PostgreSQL, TypeScript, Tailwind CSS
 * **Code Access:** 🔒 Private Repository
@@ -88,8 +86,6 @@ Developer_Identity:
 ---
 
 #### 2. 💬 WhatsApp Web Client
-* **SEO Target Keyword:** `WhatsApp Web Client` *(Search Volume: > 2,400/mo)*
-* **EMD Domain Potential:** Available in `.org` (`whatsappwebclient.org`)
 * **System Summary:** Pixel-perfect desktop messaging application built with WebSockets, persistent session management, group chat data parsers, real-time message history export, and custom dark UI theme.
 * **Tech Stack:** Node.js, Express.js, WebSockets, JavaScript, HTML5/CSS3
 * **Code Access:** 🔒 Private Repository
@@ -97,8 +93,6 @@ Developer_Identity:
 ---
 
 #### 3. ⚡ System Monitoring Dashboard
-* **SEO Target Keyword:** `System Monitoring Dashboard` *(Search Volume: > 1,200/mo)*
-* **EMD Domain Potential:** Available in `.net` & `.org` (`systemmonitoringdashboard.net`)
 * **System Summary:** Nomadic PC control center designed for developer environment management, 1-click toolchain audits (`winget`), Obsidian vault background synchronization monitoring, and active agent status reporting.
 * **Tech Stack:** PowerShell 7, React, Dataview, Markdown, REST API
 * **Code Access:** 🔒 Private Repository
@@ -106,8 +100,6 @@ Developer_Identity:
 ---
 
 #### 4. 📜 Google Apps Script Automation
-* **SEO Target Keyword:** `Google Apps Script Automation` *(Search Volume: > 800/mo)*
-* **EMD Domain Potential:** Available in `.org` (`googleappscriptautomation.org`)
 * **System Summary:** Centralized Google Workspace automation suite managing automated Google Drive backups, Google Sheets multi-tab ledger aggregation, and cross-platform API webhooks versioned via Google Clasp CLI.
 * **Tech Stack:** Google Apps Script, JavaScript, Clasp CLI, Google Workspace API
 * **Code Access:** 🔒 Private Repository
@@ -115,8 +107,6 @@ Developer_Identity:
 ---
 
 #### 5. 🔍 Keyword Niche Validator
-* **SEO Target Keyword:** `Keyword Niche Validator` *(Search Volume: > 700/mo)*
-* **EMD Domain Potential:** Available in `.com` (`keywordnichevalidator.com`)
 * **System Summary:** Automated SEO niche research and keyword evaluation engine analyzing search volume thresholds (> 500/mo), exact match domain (EMD) availability across `.com/.net/.org`, and keyword difficulty scores.
 * **Tech Stack:** Python 3.12, Node.js, JSON Data Pipelines
 * **Code Access:** 🔒 Private Repository
@@ -124,8 +114,6 @@ Developer_Identity:
 ---
 
 #### 6. 🛒 Buy Sell Marketplace Script
-* **SEO Target Keyword:** `Buy Sell Marketplace Script` *(Search Volume: > 900/mo)*
-* **EMD Domain Potential:** Available in `.net` (`buysellmarketplacescript.net`)
 * **System Summary:** Multi-vendor e-commerce and classified ads marketplace web application featuring user product listings, category search filters, buyer-seller messaging, and vendor inventory management.
 * **Tech Stack:** React 18, Express.js, MongoDB, Tailwind CSS
 * **Code Access:** 🔒 Private Repository
@@ -133,8 +121,6 @@ Developer_Identity:
 ---
 
 #### 7. 🤖 Autonomous AI Agent Framework
-* **SEO Target Keyword:** `Autonomous AI Agent Framework` *(Search Volume: > 1,500/mo)*
-* **EMD Domain Potential:** Available in `.org` (`autonomousaiagentframework.org`)
 * **System Summary:** Enterprise multi-agent operating system orchestrating reasoning pipelines, isolated sandbox tool execution, vector memory retrieval, and custom RESTful service bridges.
 * **Tech Stack:** Python 3.12, FastAPI, Next.js, Docker
 * **Code Access:** 🔒 Private Repository
