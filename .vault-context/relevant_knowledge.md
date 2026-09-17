@@ -2,44 +2,23 @@
 
 ## Agent_Skills_Index
 
-# Agent Skills Index
+# Master Agent Skills Index
 
-> [!NOTE] **MASSIVE SKILLS UPGRADE** (2026-08-11)
-> This static index only lists legacy manual skills. The system is now permanently connected to the `antigravity-skills` and `agentic-awesome-skills` repositories via `.gemini/config/community-skills`. Over 2,000+ dynamic skills are now available and autonomously active in the background! Use your IDE extensions to browse them.
+Last Indexed: 2026-09-05 14:15:00
 
-- [[3d-web-experience]]
-- [[accessibility-compliance-accessibility-audit]]
-- [[ad-creative]]
-- [[agent-memory-mcp]]
-- [[agent-memory-systems]]
-- [[agent-orchestration-multi-agent-optimize]]
-- [[ai-agents-architect]]
-- [[ai-ml-developer]]
-- [[ai-product]]
-- [[api-builder]]
-- [[appdeploy]]
-- [[browser-automation]]
-- [[browser-extension-builder]]
-- [[code-reviewer]]
-- [[data-analyst]]
-- [[defuddle]]
-- [[docs-generator]]
-- [[excel-master]]
-- [[fix-review]]
-- [[frontend-expert]]
-- [[humanizer]]
-- [[json-canvas]]
-- [[mobile-developer]]
-- [[obsidian-bases]]
-- [[obsidian-cli]]
-- [[obsidian-markdown]]
-- [[obsidian_vault_context]]
-- [[project_bootstrapper]]
-- [[shadcn]]
-- [[sql-optimization]]
-- [[uiux-designer]]
-- [[vault_sync_macro]]
+## 📦 Total Global Custom Skills Detected: 48
+Location: `C:\Users\Yousafology\.gemini\config\skills`
 
+| Category | Skills Included | Description | Status |
+|---|---|---|---|
+| 💻 **Core Development & Architecture** | `clean-code`, `fable-method`, `fable-foreman`, `fable-root-cause`, `senior-software-architect`, `error-handling`, `git-conventional-commits`, `readme-generator-pro` | Clean code standards, multi-stage reasoning, root-cause debugging, architecture patterns, and conventional commits | Active |
+| ⚛️ **Frontend & UI Engineering** | `react-component-architecture`, `nextjs-app-router-expert`, `vue3-composition-api`, `modern-web-aesthetics`, `ui-ux-design-principles`, `framer-motion-animations`, `tailwind-mastery`, `responsive-web-design`, `html5-semantic-structure` | Component architectures, modern design aesthetics, Tailwind styling, Framer Motion, and accessibility | Active |
+| 🚀 **Full-Stack & Backend Frameworks** | `node-express-boilerplate`, `python-fastapi-expert`, `graphql-schema-design`, `prisma-orm-patterns`, `sql-query-optimization`, `redis-caching-strategies` | Node/Express, FastAPI REST APIs, GraphQL schemas, database indexing, caching strategies, and Prisma ORM | Active |
+| 🌐 **WordPress & Webmaster Stack** | `wordpress-theme-development`, `wordpress-plugin-development`, `wordpress-security-hardening`, `elementor-pro-mastery`, `elementor-performance-tuning`, `webmaster-maintenance-protocol`, `cpanel-server-management`, `nginx-reverse-proxy` | Custom WP themes/plugins, Elementor Pro tuning, server security, cPanel administration, and NGINX configs | Active |
+| 🔍 **SEO & Performance Optimization** | `on-page-seo-expert`, `technical-seo-auditor`, `frontend-performance-optimization`, `accessibility-a11y-auditor` | Technical SEO crawling, meta/schema optimization, Core Web Vitals, and WCAG accessibility standards | Active |
+| 🛡️ **DevOps, Cloud & Security** | `security-owasp-top-10`, `docker-compose-local-dev`, `dockerfile-security`, `kubernetes-manifest-expert`, `github-actions-ci`, `aws-cdk-infrastructure`, `terraform-aws-modules` | OWASP hardening, non-root Docker builds, K8s manifests, CI/CD pipelines, AWS CDK, and Terraform modules | Active |
+| 🧪 **Automated Testing & QA** | `jest-frontend-testing`, `python-pytest-testing`, `brutal-code-reviewer` | Jest test suites, pytest fixtures, and adversarial code reviews | Active |
+| 🧠 **AI Optimization & Knowledge Systems** | `ai-credit-saver`, `obsidian-markdown-mastery`, `jsdoc-typescript-docs` | Token budgeting, second brain Obsidian workflows, and documentation generation | Active |
 
 
 ## Boot Camp on Intel Macs (2012 MBP + Windows 10)
